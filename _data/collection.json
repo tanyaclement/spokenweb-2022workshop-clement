@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "SpokenWeb Workshop Clement Annotations" ] },
+    "summary": { "en": [ "This is an example of adding annotations to an existing set of an annotations. " ] },
+    "items": [
+    ]
+}
