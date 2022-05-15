@@ -1,0 +1,155 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As professor Driscoll introduces the speakers, all four speakers appear on the video in separate zoom boxes. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "147,155"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Professor O'Driscoll introduces the host Uchechukwu Peter Umezurike who appears on the screen with brightly-colored (possibly child-drawn) paintings of flowers behind him. Umezurike is wearing headphones and eyeglasses.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "156,211"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Umezurike appears alone on the screen to introduce the speaker UAlberta Writer in Residence Ifeoma Chinwuba.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "211,235"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Umezurike appears on the screen with Ifeoma Chinwuba and Titilope Sonuga. Chinwuba is on the upper right corner of the screen. She wears a black top and her long black hair loose. She is in front of a colorful painting. Sonuga appears in a zoom square underneath Umezurike and Chinwuba. She is wearing a white top and her hair is under a white head covering.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "235,346"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Umezurike appears alone on the screen with Chinwuba.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "347,361"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sonuga reappears in her Zoom box underneath Umezurike and Chinwuba.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "362"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas/environment-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Chinwuba and Sonuga put their hands together in thanks. Umezurike appears alone again on the screen.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/spokenweb-2022workshop-clement/readings-and-discussion-featuring-ualberta-writer-in-residence-ifeoma-chinwuba-and-edmonton-poet-laureate-titilope-sonuga/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "415"
+        }
+      }
+    }
+  ]
+}
